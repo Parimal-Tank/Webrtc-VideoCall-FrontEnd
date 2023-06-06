@@ -2,6 +2,18 @@
   text-align: center;
 }
 
+.call-input {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.email-input {
+  margin-left: 50px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
